@@ -1,0 +1,2 @@
+pirnt on board:print():0
+type string:string():0
